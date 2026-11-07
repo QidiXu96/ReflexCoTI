@@ -1,6 +1,6 @@
 """
 Purpose:
-    Define and run the reflexive coder agents used in Stage 1 of ReflexTheme.
+    Define and run the reflexive coder agents used in Stage 1 of ReflexCoTI.
 
 Use this file when:
     - Generating initial codes and supporting clues from transcript (research question and interviewee should be modified based on your own research)
@@ -29,7 +29,7 @@ The profile has three layers:
 import json, os, re, time
 from AzureUtils import *
 
-DEFAULT_OUTPUT_BASE_DIR = "ReflexTheme in Covid/independent_coding"
+DEFAULT_OUTPUT_BASE_DIR = "ReflexCoTI in Covid/independent_coding"
 DEFAULT_RESEARCH_QUESTION = "how the pandemic affected service delivery, health workers, patient access to services, leadership, and governance, and what extent the legacy of the 2013–16 Ebola outbreak influenced the COVID-19 response and public perception" # can be changed based on research
 DEFAULT_INTERVIEWEE = "health workers, policymakers, and patients between Oct-Dec 2020" # can be changed based on research
 
