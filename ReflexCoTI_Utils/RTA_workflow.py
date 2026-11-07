@@ -1,6 +1,6 @@
 """
 Purpose:
-    Run the complete Stage 1 ReflexTheme coding workflow across multiple transcripts and iterative coding rounds.
+    Run the complete Stage 1 ReflexCoTI coding workflow across multiple transcripts and iterative coding rounds.
 
 Use this file when:
     - Running the full Stage 1 pipeline
