@@ -1,6 +1,6 @@
 """
 Purpose:
-    Generate themes from the finalized codebook in Stage 2 of ReflexTheme.
+    Generate themes from the finalized codebook in Stage 2 of ReflexCoTI.
 
 Use this file when:
     - Clustering codebook entries before theme generation
