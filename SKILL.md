@@ -7,7 +7,7 @@ description: Run ReflexCoTI to do transcript coding, evolving codebook, multi-ag
 
 ## Establish the requested scope
 
-Run the repository's Python implementation. Use `ReflexTheme_Covid.ipynb` as an orchestration example, with the corrections below. 
+Run the repository's Python implementation. Use `ReflexCoTI_Covid.ipynb` as an orchestration example, with the corrections below. 
 Do not replace the pipeline with your own thematic analysis in chat.
 
 Select the requested starting point:
