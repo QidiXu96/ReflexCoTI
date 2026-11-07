@@ -19,3 +19,11 @@ cd ReflexTheme
 pip install -r requirements.txt
 ```
 Then open `ReflexTheme_Covid.ipynb`, provide your own API credentials, and run the notebook cells in order.
+
+## **Run with a coding agent**
+You can ask a coding agent to read SKILL.md and follow its instructions to configure and run the ReflexCoTI pipeline.
+For example, after cloning this repository, ask:
+```bash
+Read SKILL.md and follow it to run ReflexCoTI on my transcript chunks in <input-directory>. Save the results to <output-directory>. Check the required configuration before execution and validate the generated outputs.
+```
+You will need to provide your own Azure OpenAI credentials and deployment configuration.
