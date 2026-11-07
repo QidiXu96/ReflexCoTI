@@ -67,7 +67,7 @@ def merge_agent_results(agent_name, transcript_id, round_num, base_dir, suffix="
 
     merged_json_text = "\n\n".join(merged_json_parts)
 
-    final_base_dir = ("ReflexTheme in Covid/final_coding")
+    final_base_dir = ("ReflexCoTI in Covid/final_coding")
     final_agent_dir = os.path.join(final_base_dir, agent_name)
     os.makedirs(final_agent_dir, exist_ok=True)
 
