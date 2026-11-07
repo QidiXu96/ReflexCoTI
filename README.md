@@ -4,13 +4,13 @@ We developed Reflexive Collaborative Thematic Identification Agents (ReflexCoTI)
 <img width="3004" height="2452" alt="new reflextheme (2)" src="https://github.com/user-attachments/assets/11306a5b-2a53-4c48-b987-d3b5b86aa0f3" />
 
 ## **API Requirement** 
-Users must provide their own API credentials to run ReflexTheme. 
+Users must provide their own API credentials to run ReflexCoTI. 
 
 ## **Usage**
 1. Clone or download this repository. Related ReflexCoTI coding functions at [ReflexTheme_Utils](./ReflexTheme_Utils/). <br>
 2. Prepare your own API credentials and set your azure deployment name at [AzureUtils.py](./ReflexTheme_Utils/AzureUtils.py). <br>
 3. Open [ReflexTheme_Covid.ipynb](./ReflexTheme_Covid.ipynb/). <br>
-4. Follow the notebook to configure the API, load transcripts, and run ReflexTheme. <br>
+4. Follow the notebook to configure the API, load transcripts, and run ReflexCoTI. <br>
 
 ## **Quick Start**
 ```bash
