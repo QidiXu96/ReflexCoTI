@@ -9,16 +9,16 @@ Users must provide their own API credentials to run ReflexCoTI.
 ## **Usage**
 1. Clone or download this repository. Related ReflexCoTI coding functions at [ReflexTheme_Utils](./ReflexTheme_Utils/). <br>
 2. Prepare your own API credentials and set your azure deployment name at [AzureUtils.py](./ReflexTheme_Utils/AzureUtils.py). <br>
-3. Open [ReflexTheme_Covid.ipynb](./ReflexTheme_Covid.ipynb/). <br>
+3. Open [ReflexCoTI_Covid.ipynb](./ReflexCoTI_Covid.ipynb/). <br>
 4. Follow the notebook to configure the API, load transcripts, and run ReflexCoTI. <br>
 
 ## **Quick Start**
 ```bash
-git clone https://github.com/QidiXu96/ReflexTheme.git
-cd ReflexTheme
+git clone https://github.com/QidiXu96/ReflexCoTI.git
+cd ReflexCoTI
 pip install -r requirements.txt
 ```
-Then open `ReflexTheme_Covid.ipynb`, provide your own API credentials, and run the notebook cells in order.
+Then open `ReflexCoTI_Covid.ipynb`, provide your own API credentials, and run the notebook cells in order.
 
 ## **Run with a Coding Agent**
 You can ask a coding agent to read SKILL.md and follow its instructions to configure and run the ReflexCoTI pipeline.
