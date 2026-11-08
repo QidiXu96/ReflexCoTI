@@ -7,8 +7,8 @@ We developed Reflexive Collaborative Thematic Identification Agents (ReflexCoTI)
 Users must provide their own API credentials to run ReflexCoTI. 
 
 ## **Usage**
-1. Clone or download this repository. Related ReflexCoTI coding functions at [ReflexTheme_Utils](./ReflexTheme_Utils/). <br>
-2. Prepare your own API credentials and set your azure deployment name at [AzureUtils.py](./ReflexTheme_Utils/AzureUtils.py). <br>
+1. Clone or download this repository. Related ReflexCoTI coding functions at [ReflexCoTI_Utils](./ReflexCoTI_Utils/). <br>
+2. Prepare your own API credentials and set your azure deployment name at [AzureUtils.py](./ReflexCoTI_Utils/AzureUtils.py). <br>
 3. Open [ReflexCoTI_Covid.ipynb](./ReflexCoTI_Covid.ipynb/). <br>
 4. Follow the notebook to configure the API, load transcripts, and run ReflexCoTI. <br>
 
